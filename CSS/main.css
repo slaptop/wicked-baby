@@ -1,0 +1,18 @@
+@import url("game.css");
+@import url("ui.css");
+
+.unselectable {
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: none;
+   user-select: none;
+}
+html,body{margin:0 0 0 0; padding: 0 0 0 0; height:100%; width:100%;overflow:hidden;}
+p{margin:0 0 0 0; padding: 0 0 0 0;}
+/*p{position:absolute;width:23px;height:23px;margin:0 0 0 0;padding: 0 0 0 0;border:1px solid white;}*/

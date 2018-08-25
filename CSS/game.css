@@ -1,0 +1,22 @@
+.tile	{position:absolute;width:23px;height:23px;}
+.ground		{background:peru;		border:1px solid tan;}
+.emptyRoom	{background:Silver;		border:1px solid gainsboro;}
+.wall		{background:dimgray;	border:1px solid gray;}
+.grass		{background:lightgreen;	border:1px solid lemon;}
+.road		{background:white;		border:1px solid ghostwhite;}
+
+.nursery	{background:khaki;		border:1px solid lightyellow;}
+.sissyRoom	{background:pink;		border:1px solid lightpink;}
+.tortureChamber{background:tomato;	border:1px solid lightcoral;}
+.arrival	{background:deepSkyBlue;border:1px solid dodgerblue;}
+.denial		{background:darkviolet;	border:1px solid mediumorchid;}/*milking orgasm allowance, ...*/
+.animalry	{background:burlywood;	border:1px solid antiquewhite;}
+
+.character	{position:absolute;width:23px;height:23px;}
+.neutralSlave{background:cadetBlue;	border:1px solid darkcyan;}
+.sissySlave	{background:deeppink;	border:1px solid hotpink;}
+.babySlave	{background:palegreen;	border:1px solid springgreen;}
+.foxSlave	{background:cornflowerBlue;	border:1px solid deepskyblue;}
+.masoSlave	{background:maroon;		border:1px solid darkred;}
+
+.dom		{background:black;		border:1px solid gray;}

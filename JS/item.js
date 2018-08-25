@@ -1,0 +1,23 @@
+class Item
+{
+	constructor(nm,pain,deni,ana,femi,ureth,incon,blow,pr,skl,qte,bpt)
+	{
+		this.name=nm;
+		this.painBonus=pain;
+		this.denialBonus=deni;
+		this.analDilationBonus=ana;
+		this.feminizationBonus=femi;
+		this.urethralDilationBonus=ureth;
+		this.incontinenceBonus=incon;
+		this.blowJobBonus=blow;
+		this.price=pr;
+		this.skillNeeded=skl;
+		this.quantity=qte;
+		this.stock=qte;
+		this.weight=0;
+		this.state="fresh";
+		this.bodyPart=bpt;
+		//this.needs=nds;
+		//this.concearnedBodyPart=cbp;
+	}
+}
